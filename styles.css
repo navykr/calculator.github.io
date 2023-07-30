@@ -1,0 +1,42 @@
+body{background-color: rgb(12, 11, 11);}
+h1{
+    color: white;
+}
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .button {
+    color: aqua;
+    border: none;
+   width: 54px;
+    height: 60px;
+    border-radius: 50%;
+    
+    background: transparent;
+    
+    box-shadow: -6px -6px 2px rgba(255, 255, 255, 0.1);
+    border-radius: 9px;
+    cursor: pointer;
+  }
+  
+  .but-pad {
+    padding: 6px;
+  }
+  
+  .container input {
+    margin: 5px 0px;
+    padding: 7px 7px;
+    border:black;
+    border-radius: 7px;
+    font-size: 17px;
+  }
+  
+  .container {
+    background-color:black;
+  }
